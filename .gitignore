@@ -1,2 +1,5 @@
-index.txt,
+# Ignore index.php and index.css
+index.txt
 index.css
+
+# Add other patterns or files to ignore below if needed
